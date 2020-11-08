@@ -16,5 +16,5 @@ Turkish article of this project is: [@berkslv/javascript-puppeteer-ile-web-scrap
 3. Run the app
 
 ```
-	$ node ./app.js
+    $ node ./app.js
 ```
